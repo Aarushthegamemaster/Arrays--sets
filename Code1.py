@@ -7,6 +7,9 @@ print(set2)
 set3 = {1,2,3,4,2}
 print(set3)
 
+set5 = set([1,2,3,4,2,5])
+print(set5)
+
 set4 = {1,2,3,4,5,6}
 print("Orginal set:", set4)
 set4.pop()
